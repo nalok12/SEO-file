@@ -1,0 +1,19 @@
+<h3>Ques:  What is SEO and explain the importance of SEO?</h3>
+<h3>Ans:- </h3>
+ <p> <b>SEO and its importance:-</b>
+    SEO means Search Engine Optimization and is the process used to optimize a website's technical cofiguration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engine rank them better.The practice of increasing the quantity and quality of traffic to your website through organic search engine result. The ultimate goal of SEO for business is to generate organic traffic searchers clicking through to your websites from a search engine result page(SERP).</p>
+
+<h3>Ques: Create an HTML document with appropriate (title) and (meta) tags for SEO optimization. Ensure the title is descriptive and the meta description is concise?</h3>
+<h3>Ans:-</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta http-equiv="refresh" content="5">
+</head>
+
+
+</body>
+</html>
